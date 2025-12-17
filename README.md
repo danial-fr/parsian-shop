@@ -51,5 +51,9 @@ Building a modern Persian online shop experience with continuous improvements in
 
 
 
+
+
 ✨ Thank you for checking out **Persian Shop**!
+
+<a href="https://danial-fr.github.io/parsian-shop/">Click here to view</a>
 
